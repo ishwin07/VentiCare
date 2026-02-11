@@ -63,7 +63,7 @@ System shows predicted intervention with confidence score.
 
 # 4️⃣ Screenshots
 
-
+https://github.com/ishwin07/VentiCare/blob/main/blink_detector.png
 
 ---
 
